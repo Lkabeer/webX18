@@ -30,4 +30,6 @@ header {
 
 #pageX {
     padding-top: 80px;
+    max-width: 1000px;
+    margin: 0 auto;
 }
